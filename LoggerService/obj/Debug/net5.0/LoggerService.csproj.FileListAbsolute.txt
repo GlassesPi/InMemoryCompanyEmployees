@@ -1,0 +1,17 @@
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.deps.json
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.dll
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\LoggerService\bin\Debug\net5.0\ref\LoggerService.dll
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\LoggerService\bin\Debug\net5.0\Contracts.dll
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\LoggerService\bin\Debug\net5.0\Entities.dll
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\LoggerService\bin\Debug\net5.0\Contracts.pdb
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\LoggerService\bin\Debug\net5.0\Entities.pdb
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csprojAssemblyReference.cache
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CopyComplete
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.dll
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.pdb

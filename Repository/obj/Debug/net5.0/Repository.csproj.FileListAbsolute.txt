@@ -1,0 +1,17 @@
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Repository\bin\Debug\net5.0\Repository.dll
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Repository\bin\Debug\net5.0\ref\Repository.dll
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Repository\bin\Debug\net5.0\Repository.pdb
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Repository\bin\Debug\net5.0\Contracts.dll
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Repository\bin\Debug\net5.0\Entities.dll
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Repository\bin\Debug\net5.0\Contracts.pdb
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Repository\bin\Debug\net5.0\Entities.pdb
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.csprojAssemblyReference.cache
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.dll
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Repository\obj\Debug\net5.0\ref\Repository.dll
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.pdb

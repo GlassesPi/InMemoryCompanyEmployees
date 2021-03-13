@@ -1,0 +1,15 @@
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Contracts\bin\Debug\net5.0\Contracts.deps.json
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Contracts\bin\Debug\net5.0\Contracts.dll
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Contracts\bin\Debug\net5.0\Contracts.pdb
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Contracts\bin\Debug\net5.0\Entities.dll
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Contracts\bin\Debug\net5.0\Entities.pdb
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.csprojAssemblyReference.cache
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.csproj.CopyComplete
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.dll
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+D:\Academical\All Materials in .NET 5\Source Code\Source Code\07-Content Negotiation\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.pdb
